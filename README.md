@@ -2,7 +2,7 @@
 
  **` Mobile App Developer 🦑 `**
 
-I'm a mobile app developer specializing in Android (Kotlin) and Flutter (Dart). Currently in my second year of study, I have a strong foundation in web development from my first year and now focus on building efficient and user-friendly mobile applications.
+I'm a mobile app developer specializing in Android (Kotlin) and Flutter (Dart). Currently in my second year of study, I have a strong foundation in web development from my first year and now focusing on building efficient and user-friendly mobile applications.
 
 🔹 Passionate about clean code, UI/UX, and scalable solutions
 
